@@ -1,0 +1,6 @@
+streamlit==0.88.0  # Streamlit for web interface
+azure-cognitiveservices-vision-computervision==0.9.0  # Azure Computer Vision SDK
+msrest==0.6.21  # Microsoft REST API client library
+Pillow==8.3.1  # PIL (Pillow) for image manipulation
+python-docx==0.8.11  # For creating Word documents
+openai==0.27.0  # OpenAI Python package
